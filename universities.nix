@@ -11,6 +11,6 @@
   { name = "lund"; id = 1338; hash = "sha256-Nln7adqpalZkqSM5AOkN2U1CAQ/T3BmJkNEMeDU4YDg="; }
   { name = "saarland"; id = 10315; hash = "sha256-4OvnApFKD3zz0Xh/y7S6C1uRvyhgPCKBYHd/bhnmeeo="; }
   { name = "siegen"; id = 5356; hash = "sha256-qBGoeIWfYvDVZaxK6uEjPdIaKeBll0UYIEtoN8swInk="; }
-  { name = "vccs"; id = 11835; hash = "sha256-K57+R1cuubAGIyewy9kFWNxwbiuoxAxDecqM3zcv3KY="; }
+  { name = "vccs"; id = 11835; hash = "sha256-pNvyctDuxlYODefdGkm+kS/1bbbd5w3bl6/ylYIZFOk="; }
   { name = "strathclyde"; id = 2316; hash = "sha256-oumaKcSRF8RrdQ0dHbNXN8w6Y5YlLNXnuglVq9srvU0="; }
 ]
